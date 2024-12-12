@@ -1,5 +1,5 @@
 import ui
-import analysis
+import dataAnalysis
 import tkinter as tk
 
 def main():
